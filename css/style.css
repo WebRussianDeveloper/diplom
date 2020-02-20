@@ -1,0 +1,181 @@
+body{
+	color:white;
+background-size:cover;
+background-color:white;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:30%;
+width: 95%
+}
+p{
+	text-indent: 20px;
+color:black;
+ font: 14pt sans-serif;  	
+ line-height: 1.5;
+}
+p.main{
+	color:black;
+ font: 30pt sans-serif;  	
+}
+p.tel{
+color:black;
+ font: 18pt sans-serif;  	
+}
+h1{
+color:black;
+font-family:serif ;
+letter-spacing:5px;
+}
+
+.menu {
+    position: fixed;
+    left: 60px;
+    top: 50%;
+    padding: px;
+    background-image:url(pictures/);
+}
+
+.content1{
+width:500%; 
+height: 400px;
+background-image:url(pictures/);
+margin: 0 auto;
+padding:px; 
+background:#ccc;
+}
+
+
+.content8{
+
+
+width:1100px; 
+height:250px; 
+   margin: 0 auto;
+padding:px; 
+
+}
+
+.content7{
+
+
+width:104.67%; 
+height:325px; 
+margin:0px; 
+padding:px; 
+background:#ccc;
+}
+}
+.content2{
+width:px; 
+    height: 50px;
+    background-image:url(pictures/);
+    margin: 0 auto;
+	margin:0px; 
+padding:px; 
+background:#ccc;
+}
+.content3{
+    width: 400px;
+    height: 50px;
+    background-image:url(pictures/);
+    margin: 0 auto;
+	margin:0px; 
+padding:px; 
+background:#ccc;
+}
+
+
+#menu {
+    background: rgba(0, 0, 0, 0) url("../imades/mane56.png") no-repeat scroll 0 0;
+    height: 120px;
+    margin-left: 95px;
+    margin-top: 20px;
+    width: 1800px;
+}
+#menu ul {
+	padding-left: 60px;
+	padding-top: 30px;
+	overflow: hidden;
+}
+#menu ul li {
+	float: left;
+	font: bold 35px Arial, Verdana, sans-serif; 
+	color: #ffff99;
+	margin-right: 70px;
+}
+#menu ul li a {
+	color: #33cc33;
+	display: block;
+	line-height: 1;
+	font-size: 30px
+}
+
+a { 
+    text-decoration: none; 
+   }
+   
+   .button{
+
+float:left;
+ margin: px;
+ width: 200px;
+ height: 60px;
+ position: relative;
+     margin: 39; /* Обнуляем значение отступов */
+    padding: 0px; /* Значение полей */
+		    margin-left: 5.7%;
+}
+a{
+	color:black;
+ text-decoration: none;
+
+}
+.demo{
+	color:black;
+ background: #CCCCFF;
+ width: 250px;
+ height: 60px;
+ padding: 0 0 0 50px;
+ text-align: center;
+ position: absolute;
+ line-height: 60px;
+ font-size: 2em;
+ top: 0;
+ left: 0;
+ z-index: 2;
+ transition: 1s;
+ border-radius: 10px;
+}
+
+img.set{
+ vertical-align: middle;
+ position: absolute;
+ z-index: 3;
+ left: 14px;
+ top: 14px;
+ transition: 1.5s;
+}
+
+.button:hover .demo{
+
+
+     border-radius: 10px;
+}
+.button:hover img.set{
+ transform: rotate(360deg); 
+
+}﻿
+
+#tooplate_slider {
+	clear: both; 
+	width: 950px;
+	height: 605px;
+	padding: 10px 15px 70px;
+	background: url(../images/tooplate_slider.png) no-repeat;
+}
+hr { 
+width:100%; 
+border:none; 
+height:4px; 
+background:#ccc; 
+}
